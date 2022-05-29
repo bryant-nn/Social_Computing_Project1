@@ -5,4 +5,8 @@ This project is going to analyze two animals' social networks and the properties
 ## File Introduction
 * data_set
 
-    Containing two data sets about animals social network.
+    It contains two data sets about animals social network.
+
+* Social_Computing_HW1.pdf
+    
+    The requirement of this project.

@@ -8,7 +8,7 @@ This project is going to analyze two animals' social networks and the properties
     It contains two data sets about animals social network.
 
     Data resources from:
-    ```json
+    ```javascript
     @inproceedings{nr,
      title={The Network Data Repository with Interactive Graph Analytics and Visualization},
      author={Ryan A. Rossi and Nesreen K. Ahmed},

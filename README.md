@@ -28,4 +28,4 @@ This project is going to analyze two animals' social networks and the properties
 
 * data_set/soc-dolphins/buildNetwork.ipynb
 
-    It is the code to complete this project requirements in weaver network.
+    It is the code to complete this project requirements in dolphins network.

@@ -22,6 +22,10 @@ This project is going to analyze two animals' social networks and the properties
     
     The requirement of this project.
 
+* Social_Computering_HW1_report.pdf
+
+    The final report of this project.
+
 * data_set/aves-weaver-social-16/buildNetwork.ipynb
 
     It is the code to complete this project requirements in weaver network.
